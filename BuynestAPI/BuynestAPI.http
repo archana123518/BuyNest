@@ -1,0 +1,6 @@
+@BuynestAPI_HostAddress = http://localhost:5139
+
+GET {{BuynestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

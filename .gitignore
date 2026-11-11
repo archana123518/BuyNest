@@ -1,0 +1,18 @@
+# React
+node_modules/
+dist/
+.env
+.env.*
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Configuration and secrets
+appsettings*.json
+secrets.json
+
+# Logs
+*.log
